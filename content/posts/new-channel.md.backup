@@ -9,4 +9,4 @@ cover:
 tags: ["linux", "gaming"]
 categories: ["tech"]
 ---
-# Balls
+# lol
