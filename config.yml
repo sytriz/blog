@@ -1,0 +1,38 @@
+baseURL: ""
+languageCode: en-us
+title: Sytriz's Blog
+theme: PaperMod
+
+params:
+ homeInfoParams:
+  Title: "Hey nerd!"
+  Content: "Welcome to my blog. Here is where I ramble about all things tech that interest me."
+ socialIcons:
+  - name: Odysee
+    url: "https://odysee.com/@sytriz:4c7d2de23a506c57b21c208e31a275af677682ab?r=9BckN7bbHJGxDsFnBwdkhyA6887kXaGq"
+  - name: YouTube
+    url: "https://www.youtube.com/channel/UChNyIo5UKzFbTwGmU9oUyQw"
+  - name: GitHub
+    url: "https://github.com/sytriz"
+  - name: x
+    url: "https://x.com/sytriz"
+   
+ cover:
+  linkFullImages: true
+  
+ ShowBreadCrumbs: true
+
+menu:
+ main:
+  - identifier: categories
+    name: Categories
+    url: /categories/
+    weight: 10
+  - identifier: tags
+    name: Tags
+    url: /tags/
+    weight: 20
+  - identifier: archives
+    name: Archives
+    url: /archives/
+    weight: 30
