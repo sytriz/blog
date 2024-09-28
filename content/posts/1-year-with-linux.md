@@ -4,7 +4,11 @@ date: 2024-09-27T14:27:26-05:00
 draft: false
 tags: ["linux", "long-term"]
 categories: ["linux"]
+cover:
+ image: img/1-year-linux-challenge.png
 ---
+### 🎥 __Video__ - 1 Year Linux Challenge: [Odysee](https://ody.sh/lHGDQNiLGg) | [YouTube](https://youtu.be/-pYvWk2hqEI?si=RN2Pon6tFkHXS99n)
+
 ## Time for a change
 Last year, around this time, I was fed up with Windows and wanted an alternative. I had previous experience with Linux, but I never used it as my daily driver. I finally decided to bite the bullet and make the switch.
 ## 1. Linux Mint 🍀
