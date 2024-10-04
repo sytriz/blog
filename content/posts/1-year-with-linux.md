@@ -12,7 +12,7 @@ cover:
 ## Time for a change
 Last year, around this time, I was fed up with Windows and wanted an alternative. I had previous experience with Linux, but I never used it as my daily driver. I finally decided to bite the bullet and make the switch.
 ## 1. Linux Mint 🍀
-#### September - December, 2024: (3 months)
+#### September - December, 2023: (3 months)
 
 Based off recommendations on the internet, I decided to install Mint. Mint is a beginner friendly Ubuntu-based distro. Also, its interface, the Cinnamon desktop environment, is very similar to Windows, so it came quite naturally to me.
 
